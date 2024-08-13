@@ -13,6 +13,9 @@ public class Calculator {
         // UC2
         c = a - b;
         System.out.println("Subtraction is c"+c);
+        // UC3
+        c = a * b;
+        System.out.println("Multiplication is c"+c);
 
     }
 
