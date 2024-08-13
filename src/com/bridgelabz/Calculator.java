@@ -10,6 +10,9 @@ public class Calculator {
         // UC1`
         int c = a + b;
         System.out.println("Addition is c"+c);
+        // UC2
+        c = a - b;
+        System.out.println("Subtraction is c"+c);
 
     }
 
